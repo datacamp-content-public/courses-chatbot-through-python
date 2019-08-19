@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Chatbot Basics'
+description: "This Chapter describes Chatbot basics\n"
 ---
 
 ## Example coding exercise
